@@ -130,10 +130,11 @@ header .logo{
 }
 header .logo a{
 	background:url(../images/logo.png) no-repeat 0 0;
-	height:37px;
-	width:117px;
+	height:43px;
+	width:181px;
 	display:block;
 	text-indent:-999em;
+	border-radius: 10px;
 }
 header nav{
 	float:right;
